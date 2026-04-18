@@ -1,0 +1,20 @@
+# Captured images
+captures/
+
+# Trained model
+*.pkl
+*.keras
+*.h5
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
